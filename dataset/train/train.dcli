@@ -1,0 +1,3840 @@
+[
+  {
+    "file_name": "figeight-alex-natural-210312-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-alex-natural-210312-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-alex-natural-210312-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 983
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-alex-natural-210312-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-alex-natural-210312-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-thomas-natural-210310-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-thomas-natural-210310-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-thomas-natural-210310-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-thomas-natural-210310-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "figeight-thomas-natural-210310-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "figeight"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "figeight",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-alex-upright-210312-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "upright"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-alex-upright-210312-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "upright"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-alex-upright-210312-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "upright"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-alex-upright-210312-1.4.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "upright"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-alex-upright-210312-1.5.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "upright"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-alex-upright-210312-1.6.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "upright"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 909
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-2.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-2.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-3.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-3.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-living-pacing-210514-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-pacing"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-4.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-4.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-2.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-2.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-horizontal-fidgeting-210526-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-horizontal-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-horizontal-fidgeting-210526-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-horizontal-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-horizontal-fidgeting-210526-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-horizontal-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-cafe-vertical-fidgeting-210526-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210526"
+      },
+      {
+        "name": "metatag",
+        "value": "cafe-vertical-fidgeting"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-thumbforefingergrip-210520-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-thumbforefingergrip"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-thumbforefingergrip-210520-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-thumbforefingergrip"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-thumbforefingergrip-210520-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-thumbforefingergrip"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-thumbforefingergrip-210520-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-thumbforefingergrip"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-thumbforefingergrip-210520-2.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-thumbforefingergrip"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-thumbforefingergrip-210520-2.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-thumbforefingergrip"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-flat-210520-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-flat"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-flat-210520-2.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-flat"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-flat-210520-2.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-flat"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-upsidedown-210520-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-upsidedown"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-upsidedown-210520-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-upsidedown"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-upsidedown-210520-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-upsidedown"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-flat-210520-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-flat"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-flat-210520-1.2.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-flat"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "idle-thomas-deskwork-flat-210520-1.3.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210520"
+      },
+      {
+        "name": "metatag",
+        "value": "deskwork-flat"
+      },
+      {
+        "name": "class",
+        "value": "idle"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "idle",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-alex-natural-infinity-210312-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-alex-natural-infinity-210312-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-alex-natural-infinity-210312-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-alex-natural-infinity-210312-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 983
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-alex-natural-infinity-210312-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-natural-infinity-210310-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-natural-infinity-210310-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-natural-infinity-210310-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-natural-infinity-210310-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-natural-infinity-210310-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural-infinity"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-hourglass-210514-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-hourglass"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-v-210514-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-v"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-fwdwheel-210514-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-fwdwheel"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-triangle-210514-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-triangle"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-fwdwheel-210514-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-fwdwheel"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-hourglass-210514-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-hourglass"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-v-210514-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-v"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-triangle-210514-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-triangle"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-triangle-210514-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-triangle"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "unknown-thomas-living-sitting-hourglass-210514-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210514"
+      },
+      {
+        "name": "metatag",
+        "value": "living-sitting-hourglass"
+      },
+      {
+        "name": "class",
+        "value": "unknown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "unknown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-alex-natural-210312-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-alex-natural-210312-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-alex-natural-210312-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-alex-natural-210312-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-alex-natural-210312-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-thomas-natural-210310-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-thomas-natural-210310-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-thomas-natural-210310-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-thomas-natural-210310-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "updown-thomas-natural-210310-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "updown"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "updown",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-alex-natural-210312-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-alex-natural-210312-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-alex-natural-210312-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-alex-natural-210312-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 983
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-alex-natural-210312-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-thomas-natural-210310-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-thomas-natural-210310-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-thomas-natural-210310-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-thomas-natural-210310-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wave-thomas-natural-210310-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wave"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wave",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-thomas-natural-210310-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-thomas-natural-210310-2.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-thomas-natural-210310-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-thomas-natural-210310-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "thomas"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210310"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-alex-natural-210312-5.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-alex-natural-210312-6.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-alex-natural-210312-3.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-alex-natural-210312-1.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_name": "wheelcw-alex-natural-210312-4.1.csv",
+    "metadata": [
+      {
+        "name": "subject",
+        "value": "alex"
+      },
+      {
+        "name": "fold",
+        "value": "train"
+      },
+      {
+        "name": "date",
+        "value": "210312"
+      },
+      {
+        "name": "metatag",
+        "value": "natural"
+      },
+      {
+        "name": "class",
+        "value": "wheelcw"
+      }
+    ],
+    "sessions": [
+      {
+        "session_name": "Session 1",
+        "segments": [
+          {
+            "name": "Label",
+            "value": "wheelcw",
+            "start": 0,
+            "end": 985
+          }
+        ]
+      }
+    ]
+  }
+]
