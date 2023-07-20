@@ -5,7 +5,7 @@
 | Deployed gesture recognizer |
 
 ## Repository Overview
-This repository is a companion to the [Gesture Recognition with MPLAB ML tutorial](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MPLAB-ML-Documentation&redirect=true). It contains the firmware to classify a few different motion gestures on a SAMD21 Machine Learning Kit with the [Bosch BMI160 IMU](https://www.microchip.com/developmenttools/ProductDetails/EV45Y33A)
+This repository is a companion to the [Gesture Recognition with MPLAB ML tutorial](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MPLAB-ML-Gesture-Demo&redirect=true). It contains the firmware to classify a few different motion gestures on a SAMD21 Machine Learning Kit with the [Bosch BMI160 IMU](https://www.microchip.com/developmenttools/ProductDetails/EV45Y33A)
 ([Mikroe IMU2 click board](https://www.mikroe.com/6dof-imu-2-click)) or the [TDK ICM42688 IMU](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/EV18H79A) ([Mikroe IMU14 click board](https://www.mikroe.com/6dof-imu-14-click)).
 
 The supported gestures (shown in the video above) are:
